@@ -104,7 +104,7 @@ const Home: React.FC = () => {
           borderTop: "2px solid #00FF00",
         }}
       >
-        Juego X
+        Proyecto para Hackathon EducatETH
       </footer>
     </div>
   );
